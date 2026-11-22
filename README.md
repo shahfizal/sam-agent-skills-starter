@@ -132,4 +132,4 @@ You may use, adapt and share these skills with attribution. The full cohort pack
 
 These skills are the practical companion to **The Agentic Marketer** by Shahfizal Zainuddin and the Agentic AI coaching programme for startups. The free pack is the toolkit; the programme is where we apply it to your business, your offers and your taste.
 
-For cohort access, contact Shahfizal.
+For cohort access, contact Shahfizal at https://github.com/shahfizal.
