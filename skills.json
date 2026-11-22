@@ -1,0 +1,35 @@
+{
+  "name": "S.A.M Agent Skills — Starter Pack",
+  "version": "1.0.0",
+  "updated": "2026-11-22",
+  "author": "Shahfizal Zainuddin",
+  "license": "MIT",
+  "repository": "https://github.com/shahfizal/sam-agent-skills-starter",
+  "description": "Four practical AI-agent skills for marketing, writing and quality control.",
+  "skills": [
+    {
+      "id": "human-voice-pass",
+      "name": "Human Voice Pass",
+      "path": "skills/human-voice-pass",
+      "description": "Marketing and social copy that sounds like a person: removes AI tells, matches the writer's voice, adds only verifiable detail, and respects platform shape."
+    },
+    {
+      "id": "studio-marketing-strategist",
+      "name": "Studio Marketing Strategist",
+      "path": "skills/studio-marketing-strategist",
+      "description": "Audience, positioning, message hierarchy, channel plan and calls to action."
+    },
+    {
+      "id": "studio-social-manager",
+      "name": "Studio Social Media Manager",
+      "path": "skills/studio-social-manager",
+      "description": "Platform specs, captions, hashtags, scheduling and post packaging."
+    },
+    {
+      "id": "studio-qa",
+      "name": "Studio Quality Assurance",
+      "path": "skills/studio-qa",
+      "description": "Acceptance criteria, technical verification, content and brand-safety review."
+    }
+  ]
+}
